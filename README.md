@@ -5,7 +5,7 @@ Berikut adalah **README.md** yang lebih interaktif dan asyik untuk proyek **Hack
 ## **hackramadhan2025**  
 > Aplikasi mencurangi puasa (sebagai hiburan semata) untuk Indonesia dan sekitarnya UwU~  
 
-![Hack Ramadhan 2025](https://example.com/hack_ramadhan_screenshot.png) *(Ganti dengan screenshot program jika ada!)*  
+![Hack Ramadhan 2025](archanaberry/appmenu.png)
 
 **Hack Ramadhan 2025** adalah aplikasi bercandaan yang seolah-olah bisa "meng-hack" jalannya puasa, mulai dari **Fast Time**, **Auto Buka**, **Hack Pahala**, hingga **Anti Lapar**. Tentunya ini hanya untuk hiburan semata, karena sejatinya puasa tidak bisa di-cheat!  
 
