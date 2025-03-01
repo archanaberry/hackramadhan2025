@@ -67,4 +67,8 @@ Setelah kompilasi berhasil, jalankan aplikasi dengan:
 ```sh
 ./hack_ramadhan
 ```
+
+# Tangkapan layar
+![Skrinshut](archanaberry/screenshoot.png)
+
 Lalu silakan pilih fitur **"cheat"** yang kamu inginkan dan tekan tombol **"GO HACK"**. Tapi ingat ya, **ini cuma buat bercanda!** Puasa tetap harus dilakukan dengan niat dan keikhlasan~  
