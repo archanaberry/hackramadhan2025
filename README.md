@@ -1,7 +1,3 @@
-Berikut adalah **README.md** yang lebih interaktif dan asyik untuk proyek **Hack Ramadhan 2025**.  
-
----
-
 ## **hackramadhan2025**  
 > Aplikasi mencurangi puasa (sebagai hiburan semata) untuk Indonesia dan sekitarnya UwU~  
 
